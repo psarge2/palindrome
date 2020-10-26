@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/psarge2/palindrome/issues"
   },
-  "homepage": "https://github.com/psarge2/palindrome#readme"
+  "homepage": "https://github.com/psarge2/palindrome#readme",
+  "dependencies": {
+    "mocha": "^8.2.0"
+  }
 }
